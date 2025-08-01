@@ -34,4 +34,4 @@ Due to the scalability of the Chicago Business Development Patterns case study w
 
 We provided codes and instructions to load these pre-run cluster labels and centers in the `case_studies.ipynb` notebook.
 
-`chicago_spatial_map.geojson` and folder `us_state_spatial_map` contains the necessary geographic data to plot the spatial maps in the paper.
+`chicago_spatial_map.geojson` and folder `us_state_spatial_map` contains the necessary geographic data to plot the spatial maps in the paper, both are obtained from publicly avaiable scources: [Chicago Data Portal](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9) and [United States Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)
