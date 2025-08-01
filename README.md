@@ -1,5 +1,7 @@
 # Data and Code Release for the Paper "Mapping Scoial Change: A Unified Framework for Temporal Clustering
 
+Analyzing social change requires detecting patterns of continuity and difference over time. While time-series clustering offers a valuable approach, existing techniques are often limited by assuming fixed cluster definitions and static assignments of cases to clusters. To address these limitations, we introduce a unified framework of temporal clustering methods that allows for both dynamic cluster definitions and the transition of cases between clusters, generalizing and extending previous work. We also provide new algorithms for this dynamic clustering that optimize global objectives, with optional constraints on how cases move between clusters. This framework expands the methodological toolkit for analyzing social change, and we provide guidelines for its application. We illustrate the approach with three case studies: polarization of social and political attitudes across U.S. states; cross-national cultural change; and the evolution of neighborhood business patterns. We conclude with directions for further research.
+
 The repository contains the data and code used in the paper "Mapping Social Change: A Unified Framework for Temporal Clustering". 
 
 ## Results and Figures:
